@@ -13,7 +13,7 @@ import com.valdirleanderson.cursomc.services.DBService;
 @Configuration
 @Profile("dev")
 public class DevConfig {
-
+     //teste
 	@Autowired
 	private DBService dbService;
 	
